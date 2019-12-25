@@ -1,0 +1,20 @@
+﻿  test.cpp
+  StaticDetect.cpp
+  parson.cpp
+  Matrix.cpp
+  log.cpp
+  kalmanfilter.cpp
+  ElevationEstimate.cpp
+  DataStruct.cpp
+  config.cpp
+  ComFunc.cpp
+  Calibrate.cpp
+  AttTrack_lib.cpp
+  AttitudeTrack.cpp
+  AttInit.cpp
+  ATProcess.cpp
+  正在生成代码...
+g:\平地机项目\工程代码\3d_motorgrader_1212_android\attitudetrack\staticdetect.cpp(126): warning C4715: “StaticDetect::calstaticstd”: 不是所有的控件路径都返回值
+  mem.c
+  LINK : 没有找到 G:\平地机项目\工程代码\3D_MotorGrader_1212_android\x64\Debug\AttitudeTrack.exe 或上一个增量链接没有生成它；正在执行完全链接
+  AttitudeTrack.vcxproj -> G:\平地机项目\工程代码\3D_MotorGrader_1212_android\x64\Debug\AttitudeTrack.exe
